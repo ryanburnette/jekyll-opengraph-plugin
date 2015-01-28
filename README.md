@@ -13,7 +13,7 @@ It's a work in progress.
 
 Apache2
 
-[og]: http://opengraph.me
+[og]: http://ogp.me/
 [1]: http://davidensinger.com/2013/04/adding-open-graph-tags-to-jekyll/
 [2]: https://gist.github.com/pathawks/1406355
 [3]: http://bretthard.in/2012/06/jekyll-and-seo-optimization/
